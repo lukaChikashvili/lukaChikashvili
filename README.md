@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, jest, typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-sigma-68.vercel.app/](https://portfolio-ten-sigma-68.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ten-sigma-68.vercel.app/](https://portfolio2-rho-lyart.vercel.app/)
 
 - 💬 Ask me about **react, node.js, three.js**
 
