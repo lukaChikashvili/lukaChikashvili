@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-rho-lyart.vercel.app/](https://portfolio2-rho-lyart.vercel.app/)
 
-- 💬 Ask me about **react, node.js, three.js**
+- 💬 Ask me about **React, Node.js, Three.js**
 
 - 📫 How to reach me **lukachikashvili2020@gmail.com**
 
