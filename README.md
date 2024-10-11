@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukachikashvili&label=Profile%20views&color=0e75b6&style=flat" alt="lukachikashvili" /> </p>
 
-- 🌱 I’m currently learning **Next.js, jest, typescript**
+- 🌱 I’m currently learning **Next.js, Redux-toolkit, typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio2-rho-lyart.vercel.app/](https://portfolio2-rho-lyart.vercel.app/)
 
