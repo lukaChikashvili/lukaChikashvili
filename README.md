@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redux-toolkit, typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2-rho-lyart.vercel.app/](https://portfolio2-rho-lyart.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://portfolio2-rho-lyart.vercel.app/](https://www.lukachikashvili.pro/)]
 
 - 💬 Ask me about **React, Node.js, Three.js**
 
